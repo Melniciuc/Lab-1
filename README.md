@@ -1,2 +1,2 @@
-nume prenume Melniciuc Victor
-grupa CR-211
+Melniciuc Victor
+gr. CR-211
